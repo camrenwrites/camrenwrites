@@ -50,12 +50,12 @@ Currently pursuing my **PhD in English & Creative Writing** at Walden University
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Camren%20Dunn-0077B5?style=flat-square&logo=linkedin)
 
-](https://linkedin.com/in/camren-2093922b3)
+(https://linkedin.com/in/camren-2093922b3)
 
 
 ![Email](https://img.shields.io/badge/Email-camrendunn1%40gmail.com-D44638?style=flat-square&logo=gmail)
 
-](mailto:camrendunn1@gmail.com)
+(mailto:camrendunn1@gmail.com)
 
 ---
 
