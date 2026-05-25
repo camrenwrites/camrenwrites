@@ -1,51 +1,41 @@
 # Hi, I'm Camren Dunn 👋
 
-**English & Literature Professional | AI Content Evaluator | PhD Candidate**
+> Full-Stack Engineer · AI/ML Systems · Backend Infrastructure
 
-Based in Gulfport, Mississippi — working remotely across the globe.
+I build production systems that scale — AI evaluation pipelines, full-stack platforms, and backend infrastructure. Currently pursuing a PhD in Computer Science (AI Concentration) while working as a Senior Full-Stack Engineer at Handshake AI.
 
----
-
-## 🧠 About Me
-
-I sit at the intersection of **language mastery and artificial intelligence** — helping shape how AI systems understand, generate, and refine written content in English.
-
-My background spans academic writing instruction, editorial publishing, and hands-on AI content evaluation. I bring scholarly precision and real-world platform experience to every project I take on.
-
-Currently pursuing my **PhD in English & Creative Writing** at Walden University (Online) while actively working as a freelance AI Writing Evaluator.
+📍 Gulfport, MS &nbsp;|&nbsp; 🎓 Carnegie Mellon · Mississippi State &nbsp;|&nbsp; 📬 camrendunn1@gmail.com
 
 ---
 
-## 💼 What I Do
+## 🧰 Tech Stack
 
-- **AI Content Review** — Evaluating AI-generated text for grammatical accuracy, coherence, tone, and factual integrity
-- **Prompt Testing & Evaluation** — Designing and testing prompts to optimize large language model outputs
-- **Academic Writing & Instruction** — Teaching and mentoring students in composition, argumentation, and literary analysis
-- **Editorial Work** — Proofreading, manuscript editing, and literary journal coordination
+**Backend & Infra**
+`Python` `FastAPI` `Node.js` `PostgreSQL` `Redis` `Docker` `AWS` `CI/CD`
 
----
+**Frontend**
+`TypeScript` `React` `Next.js` `Tailwind CSS`
 
-## 🎓 Education
-
-| Degree | Institution | Year |
-|--------|-------------|------|
-| PhD in English & Creative Writing *(In Progress)* | Walden University — Online | Expected 2027 |
-| MA in English Literature | Mississippi State University | 2021 |
-| BA in English Language & Literature | University of Mississippi | 2019 |
+**AI & ML**
+`LLM Evaluation` `Prompt Engineering` `NLP` `Model Validation` `Data Annotation`
 
 ---
 
-## 📊 Currently
+## 📌 Featured Projects
 
-- 🎓 Pursuing PhD in English & Creative Writing — Walden University
-- 💻 Freelance AI Writing Evaluator — Scale AI
-- 📝 Open to new freelance opportunities in AI content review and English writing evaluation
-- 📍 Based in Gulfport, MS — available remotely worldwide
+| Project | Stack | Highlight |
+|---|---|---|
+| [AI Evaluation Platform](#) | FastAPI · PostgreSQL · Redis | 100K+ evals/day · 35% faster turnaround |
+| [Full-Stack Dashboard](#) | React · Node.js · MongoDB · AWS | 50K+ daily evals · 40% latency reduction |
+| [NLP API Service](#) | Python · Cloud · ML Serving | Production NLP APIs at IBM |
 
 ---
 
-## 📫 Connect With Me
+## 📬 Let's Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camren_Dunn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/camrendunn)
+[![Email](https://img.shields.io/badge/Email-camrendunn1@gmail.com-red?style=flat&logo=gmail)](mailto:camrendunn1@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel)](https://yourportfolio.com)
 
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Camren%20Dunn-0077B5?style=flat-square&logo=linkedin)
