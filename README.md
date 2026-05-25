@@ -49,4 +49,4 @@ I build production systems that scale — AI evaluation pipelines, full-stack pl
 
 ---
 
-*"Language is the most powerful tool we have — and I have dedicated my career to making sure it is used well, whether by humans or machines."*
+*"Every system I build is a promise — that the data will flow, the pipeline won't break, and the product will still be running when you wake up."*
